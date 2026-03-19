@@ -1,5 +1,5 @@
-// Name:
-// Student id:
+// Name: Sarah Abada
+// Student id: 300201425
 //
 // The Planting Synchronization Problem
 //
